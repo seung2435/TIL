@@ -3,4 +3,6 @@
 
 ## 1일 1커밋
 매일 적어도 1줄의 코드를 커밋한다.
-어제 결석하여 오늘이 새로운 시작입니다...
+
+### (1) day1
+- Markdown(typora), Python(requests, beatutifulsoup)
